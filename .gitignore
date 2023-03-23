@@ -1,0 +1,9 @@
+/.bsp/
+target/
+
+/.idea
+.DS_Store
+native
+repos.md
+
+
